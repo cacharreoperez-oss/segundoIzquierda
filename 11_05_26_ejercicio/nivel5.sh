@@ -4,7 +4,7 @@
 
 # ─── Configuración ──────────────────────────────────────────────────
 # Dirección del servidor de Manu (dentro de la carpeta nivel5)
-SERVER_URL="http://192.168.56.20:8000/nivel5"
+SERVER_URL="http://192.168.56.20:8000"
 
 # Colores para la interfaz
 VERDE='\033[0;32m'
